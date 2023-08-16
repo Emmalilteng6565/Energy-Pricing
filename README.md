@@ -1,2 +1,2 @@
 # Energy-Pricing
-Predicting Energy Demand and Prices
+Energy Pricing for Different Countries.
